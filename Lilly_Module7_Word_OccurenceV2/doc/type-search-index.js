@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"wordoccurence","l":"lilly_Word_Occurences"},{"p":"wordoccurence","l":"lilly_Word_OccurencesTest"},{"p":"wordoccurence","l":"lilly_Word_Occurences.Word"}]
